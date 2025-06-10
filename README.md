@@ -159,4 +159,4 @@ A Flask web app allows users to input material properties and get predictions in
 
 ## Acknowledgments
 - Data sourced from *"Experimental Studies of Stellite-6 Hardfaced Layer on Ferrous Materials by TIG Surfacing Process"* (IOP Conf. Ser.: Mater. Sci. Eng., 2020).
-- Project updated and deployed on May 26, 2025.
+
